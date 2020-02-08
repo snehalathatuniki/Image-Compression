@@ -8,9 +8,9 @@ To run the code, use the below commands.
 /> java kmeans/Kmeans <original file path> <compressed file name> <K value>
   
 Example:
-/> java kmeans/Kmeans koala.jpg koala 15.jpg 15
+/> java kmeans/Kmeans koala.jpg koala 5.jpg 5
 
 <Compressed file name> represents the name of the compressed image file you want to create.
 
 Output:
-A new file is created in the directory with above mentioned name "koala 15".
+A new file is created in the directory with above mentioned name "koala 5".
